@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W7PQkC6DiiIjM/vJG6OtV9t4vCaLM4tppB9hO3L8ik9DtAThBLRt/BvzDUElnOyJ16mVpC4PUT5jmTI5v3Wykw==",
+  "dgSpecHash": "QoFK0aHpQZnOBpAmuQJdPc8dY779udbBXE7Lbie+n3diPIvOWT7lHkIIDI/ztUrLDlI9FfF59W4lR3U6s/bqBQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\GraduationProjectAPI.csproj",
+  "projectFilePath": "C:\\Users\\EL-masreya\\Documents\\GitHub\\PharmaProAPI\\GraduationProjectAPI\\GraduationProjectAPI\\GraduationProjectAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\EL-masreya\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\EL-masreya\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

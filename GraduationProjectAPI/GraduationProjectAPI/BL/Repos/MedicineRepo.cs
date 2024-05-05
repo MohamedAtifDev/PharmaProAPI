@@ -116,7 +116,22 @@ namespace GraduationProjectAPI.BL.Repos
             }
             return medicines;
         }
+        public IEnumerable<Medicine> GetOutofStockSoon()
+        {
+            var medicines = db.Medicines
+         .Where(m => m.NumberInStock < 10)
+         .ToList();
 
+            return medicines;
+        }
+        public IEnumerable<Medicine> GetexpiredSoon()
+        {
+            var medicines = db.Medicines
+          .Where(m => (m.ExpirationDate - DateTime.Now).TotalDays <= 7 && (m.ExpirationDate - DateTime.Now).TotalDays >= 0)
+          .ToList();
+
+            return medicines;
+        }
         public IEnumerable<Medicine> GetOutofStock()
         {
             return db.Medicines.Where(a =>a.NumberInStock==0);

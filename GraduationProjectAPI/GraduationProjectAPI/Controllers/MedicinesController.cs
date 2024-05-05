@@ -157,6 +157,33 @@ namespace GraduationProjectAPI.Controllers
             var result = mapper.Map<IEnumerable<MedicineVM>>(data);
             return new CustomResponse<IEnumerable<MedicineVM>> { StatusCode = 200, Data = result, Message = "Data Retreived Successfully" };
         }
+        [HttpGet("GetSoonToExpire")]
+        public IActionResult GetSoonToExpire()
+        {
+            var soonToExpire = imedicine.GetexpiredSoon();
+            var result = mapper.Map<IEnumerable<MedicineVM>>(soonToExpire);
+
+            return Ok(new CustomResponse<IEnumerable<MedicineVM>>
+            {
+                StatusCode = 200,
+                Data = result,
+                Message = "Soon to expire medicines retrieved successfully."
+            });
+        }
+
+        [HttpGet("GetSoonOutOfStock")]
+        public IActionResult GetSoonOutOfStock()
+        {
+            var soonOutOfStock = imedicine.GetOutofStockSoon();
+            var result = mapper.Map<IEnumerable<MedicineVM>>(soonOutOfStock);
+
+            return Ok(new CustomResponse<IEnumerable<MedicineVM>>
+            {
+                StatusCode = 200,
+                Data = result,
+                Message = "Soon out of stock medicines retrieved successfully."
+            });
+        }
 
     }
 }

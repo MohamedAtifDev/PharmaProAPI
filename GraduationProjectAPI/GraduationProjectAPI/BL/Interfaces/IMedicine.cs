@@ -20,5 +20,8 @@ namespace GraduationProjectAPI.BL.Interfaces
 
         IEnumerable<Medicine> GetExpired();
         IEnumerable<Medicine> GetOutofStock();
+        IEnumerable<Medicine> GetOutofStockSoon();
+        IEnumerable<Medicine> GetexpiredSoon();
+
     }
 }
