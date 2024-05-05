@@ -94,5 +94,32 @@ namespace GraduationProjectAPI.BL.Repos
             }
             return medicines;
         }
+
+        public IEnumerable<Medicine> GetExpired()
+        {
+            var data = GetAll();
+            var date = DateTime.Now;
+
+            List<Medicine> medicines = new List<Medicine>();
+         
+            foreach (var item in data)
+            {
+               ;
+              
+                TimeSpan difference = item.ExpirationDate - date;
+                int differenceInDays = (int)difference.TotalDays ;
+                if (differenceInDays<=0)
+                {
+
+                    medicines.Add(item);
+                }
+            }
+            return medicines;
+        }
+
+        public IEnumerable<Medicine> GetOutofStock()
+        {
+            return db.Medicines.Where(a =>a.NumberInStock==0);
+        }
     }
 }

@@ -3,32 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\el-masreya\\desktop\\graduationprojectapi\\graduationprojectapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\el-masreya\\desktop\\graduationprojectapi\\graduationprojectapi\\controllers\\shelfstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\controllers\\shelfstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\el-masreya\\desktop\\graduationprojectapi\\graduationprojectapi\\bl\\services\\prescrptionsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\services\\prescrptionsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\el-masreya\\desktop\\graduationprojectapi\\graduationprojectapi\\bl\\backgroindjob\\sendnotificationjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\backgroindjob\\sendnotificationjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\el-masreya\\desktop\\graduationprojectapi\\graduationprojectapi\\bl\\repos\\medicinerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\repos\\medicinerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\el-masreya\\desktop\\graduationprojectapi\\graduationprojectapi\\bl\\services\\mailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\services\\mailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\el-masreya\\desktop\\graduationprojectapi\\graduationprojectapi\\bl\\interfaces\\imedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\interfaces\\imedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\el-masreya\\desktop\\graduationprojectapi\\graduationprojectapi\\controllers\\medicinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\controllers\\medicinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\el-masreya\\desktop\\graduationprojectapi\\graduationprojectapi\\bl\\repos\\doctorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\repos\\doctorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\el-masreya\\desktop\\graduationprojectapi\\graduationprojectapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\el-masreya\\desktop\\graduationprojectapi\\graduationprojectapi\\graduationprojectapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\graduationprojectapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\el-masreya\\desktop\\graduationprojectapi\\graduationprojectapi\\bl\\services\\prescrptionsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\services\\prescrptionsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\el-masreya\\desktop\\graduationprojectapi\\graduationprojectapi\\controllers\\orderhistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\controllers\\orderhistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240505132251_build-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GraduationProjectAPI\\Migrations\\20240505132251_build-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\el-masreya\\desktop\\graduationprojectapi\\graduationprojectapi\\dal\\models\\shelfnumberstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\dal\\models\\shelfnumberstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\el-masreya\\desktop\\graduationprojectapi\\graduationprojectapi\\bl\\backgroindjob\\sendnotificationjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\backgroindjob\\sendnotificationjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\el-masreya\\desktop\\graduationprojectapi\\graduationprojectapi\\bl\\vm\\userrolevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -87,10 +107,6 @@
       "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\vm\\doctorregistervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\el-masreya\\desktop\\graduationprojectapi\\graduationprojectapi\\controllers\\shelfstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\controllers\\shelfstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\el-masreya\\desktop\\graduationprojectapi\\graduationprojectapi\\bl\\repos\\prescriptionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\repos\\prescriptionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -123,10 +139,6 @@
       "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\el-masreya\\desktop\\graduationprojectapi\\graduationprojectapi\\bl\\repos\\medicinerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\repos\\medicinerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\el-masreya\\desktop\\graduationprojectapi\\graduationprojectapi\\bl\\customresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\customresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -143,28 +155,12 @@
       "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\el-masreya\\desktop\\graduationprojectapi\\graduationprojectapi\\bl\\interfaces\\imedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\interfaces\\imedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\el-masreya\\desktop\\graduationprojectapi\\graduationprojectapi\\controllers\\medicinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\controllers\\medicinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\el-masreya\\desktop\\graduationprojectapi\\graduationprojectapi\\bl\\repos\\doctorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\repos\\doctorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\el-masreya\\desktop\\graduationprojectapi\\graduationprojectapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\el-masreya\\desktop\\graduationprojectapi\\graduationprojectapi\\dal\\database\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\dal\\database\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\el-masreya\\desktop\\graduationprojectapi\\graduationprojectapi\\graduationprojectapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\graduationprojectapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240504201155_build-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -333,6 +329,10 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430120736_build-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\el-masreya\\desktop\\graduationprojectapi\\graduationprojectapi\\migrations\\20240505132251_build-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\migrations\\20240505132251_build-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -342,7 +342,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -358,43 +358,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20240505132251_build-db.cs",
-              "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240505132251_build-db.cs",
-              "RelativeDocumentMoniker": "GraduationProjectAPI\\Migrations\\20240505132251_build-db.cs",
-              "ToolTip": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240505132251_build-db.cs",
-              "RelativeToolTip": "GraduationProjectAPI\\Migrations\\20240505132251_build-db.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "MedicinesController.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\MedicinesController.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\Controllers\\MedicinesController.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\MedicinesController.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\Controllers\\MedicinesController.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAAAJMAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T13:22:51.282Z",
+              "WhenOpened": "2024-05-01T13:07:39.521Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMedicine.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Interfaces\\IMedicine.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Interfaces\\IMedicine.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Interfaces\\IMedicine.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\BL\\Interfaces\\IMedicine.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA4wBQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T12:58:33.128Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrderHistoryController.cs",
-              "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\OrderHistoryController.cs",
-              "RelativeDocumentMoniker": "GraduationProjectAPI\\Controllers\\OrderHistoryController.cs",
-              "ToolTip": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\OrderHistoryController.cs",
-              "RelativeToolTip": "GraduationProjectAPI\\Controllers\\OrderHistoryController.cs",
-              "ViewState": "AQIAAK8AAAAAAAAAAAAAAKYAAABAAAAA",
+              "DocumentIndex": 6,
+              "Title": "DoctorRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Repos\\DoctorRepo.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Repos\\DoctorRepo.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Repos\\DoctorRepo.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\BL\\Repos\\DoctorRepo.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T22:27:00.693Z",
+              "WhenOpened": "2024-05-03T16:47:48.199Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "MedicineRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Repos\\MedicineRepo.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Repos\\MedicineRepo.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Repos\\MedicineRepo.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\BL\\Repos\\MedicineRepo.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAHQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:03:13.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MailSender.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Services\\MailSender.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Services\\MailSender.cs",
               "ToolTip": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Services\\MailSender.cs",
               "RelativeToolTip": "GraduationProjectAPI\\BL\\Services\\MailSender.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAABkAAAA9AAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-30T13:03:32.359Z",
               "EditorCaption": ""
@@ -402,45 +424,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PrescrptionSender.cs",
-              "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Services\\PrescrptionSender.cs",
-              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Services\\PrescrptionSender.cs",
-              "ToolTip": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Services\\PrescrptionSender.cs",
-              "RelativeToolTip": "GraduationProjectAPI\\BL\\Services\\PrescrptionSender.cs",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAAAEEAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T13:47:33.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "GraduationProjectAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\appsettings.json",
-              "RelativeToolTip": "GraduationProjectAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-30T11:52:40.661Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ShelfNumberStatus.cs",
-              "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\DAL\\Models\\ShelfNumberStatus.cs",
-              "RelativeDocumentMoniker": "GraduationProjectAPI\\DAL\\Models\\ShelfNumberStatus.cs",
-              "ToolTip": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\DAL\\Models\\ShelfNumberStatus.cs",
-              "RelativeToolTip": "GraduationProjectAPI\\DAL\\Models\\ShelfNumberStatus.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T22:20:21.504Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "SendNotificationJob.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\BackgroindJob\\SendNotificationJob.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\BackgroindJob\\SendNotificationJob.cs",
@@ -453,7 +436,99 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 0,
+              "Title": "ShelfStatusController.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\ShelfStatusController.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\Controllers\\ShelfStatusController.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\ShelfStatusController.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\Controllers\\ShelfStatusController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAACcAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T22:29:16.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PrescrptionSender.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Services\\PrescrptionSender.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Services\\PrescrptionSender.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Services\\PrescrptionSender.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\BL\\Services\\PrescrptionSender.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAEEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T13:47:33.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderHistoryController.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\OrderHistoryController.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\Controllers\\OrderHistoryController.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\OrderHistoryController.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\Controllers\\OrderHistoryController.cs",
+              "ViewState": "AQIAAK8AAAAAAAAAAAAAAKYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T22:27:00.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\appsettings.json",
+              "RelativeToolTip": "GraduationProjectAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-30T11:52:40.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "20240505132251_build-db.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240505132251_build-db.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\Migrations\\20240505132251_build-db.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240505132251_build-db.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\Migrations\\20240505132251_build-db.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:22:51.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GraduationProjectAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\GraduationProjectAPI.csproj",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\GraduationProjectAPI.csproj",
+              "ToolTip": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\GraduationProjectAPI.csproj",
+              "RelativeToolTip": "GraduationProjectAPI\\GraduationProjectAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-30T11:08:08.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShelfNumberStatus.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\DAL\\Models\\ShelfNumberStatus.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\DAL\\Models\\ShelfNumberStatus.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\DAL\\Models\\ShelfNumberStatus.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\DAL\\Models\\ShelfNumberStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T22:20:21.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "OrderHistoryVM.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\OrderHistoryVM.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\VM\\OrderHistoryVM.cs",
@@ -461,12 +536,11 @@
               "RelativeToolTip": "GraduationProjectAPI\\BL\\VM\\OrderHistoryVM.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAAABQAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T12:36:25.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T12:36:25.356Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "UserRoleVM.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\UserRoleVM.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\VM\\UserRoleVM.cs",
@@ -474,12 +548,11 @@
               "RelativeToolTip": "GraduationProjectAPI\\BL\\VM\\UserRoleVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T13:17:43.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T13:17:43.095Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "ResetPasswordVM.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\ResetPasswordVM.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\VM\\ResetPasswordVM.cs",
@@ -487,12 +560,11 @@
               "RelativeToolTip": "GraduationProjectAPI\\BL\\VM\\ResetPasswordVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T02:20:12.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T02:20:12.099Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "RegisterVM.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\RegisterVM.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\VM\\RegisterVM.cs",
@@ -500,12 +572,11 @@
               "RelativeToolTip": "GraduationProjectAPI\\BL\\VM\\RegisterVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T16:58:42.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T16:58:42.417Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "PrescriptionWithPharmacistIDVM.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\PrescriptionWithPharmacistIDVM.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\VM\\PrescriptionWithPharmacistIDVM.cs",
@@ -513,12 +584,11 @@
               "RelativeToolTip": "GraduationProjectAPI\\BL\\VM\\PrescriptionWithPharmacistIDVM.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAAAB4AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T05:15:07.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T05:15:07.073Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "PrescriptionVM.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\PrescriptionVM.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\VM\\PrescriptionVM.cs",
@@ -526,12 +596,11 @@
               "RelativeToolTip": "GraduationProjectAPI\\BL\\VM\\PrescriptionVM.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAAAA0AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T12:31:55.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T12:31:55.608Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "PharmacistVM.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\PharmacistVM.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\VM\\PharmacistVM.cs",
@@ -539,12 +608,11 @@
               "RelativeToolTip": "GraduationProjectAPI\\BL\\VM\\PharmacistVM.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAAABIAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T12:33:37.478Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T12:33:37.478Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "MedicineVM.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\MedicineVM.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\VM\\MedicineVM.cs",
@@ -552,12 +620,11 @@
               "RelativeToolTip": "GraduationProjectAPI\\BL\\VM\\MedicineVM.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAAuwCYAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T12:19:06.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T12:19:06.852Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "PatientVM.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\PatientVM.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\VM\\PatientVM.cs",
@@ -565,12 +632,11 @@
               "RelativeToolTip": "GraduationProjectAPI\\BL\\VM\\PatientVM.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAAACAAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T12:23:12.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T12:23:12.54Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "MedicineOfPrescriptionVM.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\MedicineOfPrescriptionVM.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\VM\\MedicineOfPrescriptionVM.cs",
@@ -578,12 +644,11 @@
               "RelativeToolTip": "GraduationProjectAPI\\BL\\VM\\MedicineOfPrescriptionVM.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAAAAgAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T12:37:33.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T12:37:33.748Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "LoginVM.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\LoginVM.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\VM\\LoginVM.cs",
@@ -591,12 +656,11 @@
               "RelativeToolTip": "GraduationProjectAPI\\BL\\VM\\LoginVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T16:25:15.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T16:25:15.959Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "ForgetPasswordVM.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\ForgetPasswordVM.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\VM\\ForgetPasswordVM.cs",
@@ -604,12 +668,11 @@
               "RelativeToolTip": "GraduationProjectAPI\\BL\\VM\\ForgetPasswordVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T01:59:10.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T01:59:10.236Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "DoctorVM.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\DoctorVM.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\VM\\DoctorVM.cs",
@@ -617,12 +680,11 @@
               "RelativeToolTip": "GraduationProjectAPI\\BL\\VM\\DoctorVM.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAAABIAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T12:17:30.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T12:17:30.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "DoctorRegisterVM.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\DoctorRegisterVM.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\VM\\DoctorRegisterVM.cs",
@@ -630,12 +692,11 @@
               "RelativeToolTip": "GraduationProjectAPI\\BL\\VM\\DoctorRegisterVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T13:18:51.634Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T13:18:51.634Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "PrescriptionRepo.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Repos\\PrescriptionRepo.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Repos\\PrescriptionRepo.cs",
@@ -643,12 +704,11 @@
               "RelativeToolTip": "GraduationProjectAPI\\BL\\Repos\\PrescriptionRepo.cs",
               "ViewState": "AQIAAE0AAAAAAAAAAAAAAF0AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T13:33:45.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T13:33:45.355Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "IPrescription.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Interfaces\\IPrescription.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Interfaces\\IPrescription.cs",
@@ -656,25 +716,11 @@
               "RelativeToolTip": "GraduationProjectAPI\\BL\\Interfaces\\IPrescription.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAmwA0AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T13:33:07.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T13:33:07.828Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ShelfStatusController.cs",
-              "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\ShelfStatusController.cs",
-              "RelativeDocumentMoniker": "GraduationProjectAPI\\Controllers\\ShelfStatusController.cs",
-              "ToolTip": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\ShelfStatusController.cs",
-              "RelativeToolTip": "GraduationProjectAPI\\Controllers\\ShelfStatusController.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAABgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T22:29:16.637Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "PrescriptionController.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\PrescriptionController.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\Controllers\\PrescriptionController.cs",
@@ -687,7 +733,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "IMedicineOfPrescription.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Interfaces\\IMedicineOfPrescription.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Interfaces\\IMedicineOfPrescription.cs",
@@ -695,12 +741,11 @@
               "RelativeToolTip": "GraduationProjectAPI\\BL\\Interfaces\\IMedicineOfPrescription.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAAAA0AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T22:30:28.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T22:30:28.34Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 33,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Program.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\Program.cs",
@@ -708,12 +753,11 @@
               "RelativeToolTip": "GraduationProjectAPI\\Program.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAAAB4AAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T11:54:01.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T11:54:01.323Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "MedicineOfPrescriptionController.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\MedicineOfPrescriptionController.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\Controllers\\MedicineOfPrescriptionController.cs",
@@ -726,7 +770,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "MedicineOfPrescriptionRepo.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Repos\\MedicineOfPrescriptionRepo.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Repos\\MedicineOfPrescriptionRepo.cs",
@@ -734,12 +778,11 @@
               "RelativeToolTip": "GraduationProjectAPI\\BL\\Repos\\MedicineOfPrescriptionRepo.cs",
               "ViewState": "AQIAAGMAAAAAAAAAAAAAAGkAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T22:33:30.658Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T22:33:30.658Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "20240505120812_build-db.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240505120812_build-db.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\Migrations\\20240505120812_build-db.cs",
@@ -747,24 +790,11 @@
               "RelativeToolTip": "GraduationProjectAPI\\Migrations\\20240505120812_build-db.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T12:08:13.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T12:08:13.015Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "MedicineRepo.cs",
-              "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Repos\\MedicineRepo.cs",
-              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Repos\\MedicineRepo.cs",
-              "ToolTip": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Repos\\MedicineRepo.cs",
-              "RelativeToolTip": "GraduationProjectAPI\\BL\\Repos\\MedicineRepo.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAEAAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T13:03:13.299Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "CustomResponse.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\CustomResponse.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\CustomResponse.cs",
@@ -776,7 +806,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "OrderHistoryRepo.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Repos\\OrderHistoryRepo.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Repos\\OrderHistoryRepo.cs",
@@ -788,7 +818,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "MedicineOfPrescription.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\DAL\\Models\\MedicineOfPrescription.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\DAL\\Models\\MedicineOfPrescription.cs",
@@ -800,7 +830,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "PatientController.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\PatientController.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\Controllers\\PatientController.cs",
@@ -810,30 +840,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-30T13:12:54.07Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "IMedicine.cs",
-              "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Interfaces\\IMedicine.cs",
-              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Interfaces\\IMedicine.cs",
-              "ToolTip": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Interfaces\\IMedicine.cs",
-              "RelativeToolTip": "GraduationProjectAPI\\BL\\Interfaces\\IMedicine.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAuwBIAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T12:58:33.128Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "DoctorRepo.cs",
-              "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Repos\\DoctorRepo.cs",
-              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Repos\\DoctorRepo.cs",
-              "ToolTip": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Repos\\DoctorRepo.cs",
-              "RelativeToolTip": "GraduationProjectAPI\\BL\\Repos\\DoctorRepo.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAoAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T16:47:48.199Z"
             },
             {
               "$type": "Document",
@@ -862,32 +868,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "MedicinesController.cs",
-              "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\MedicinesController.cs",
-              "RelativeDocumentMoniker": "GraduationProjectAPI\\Controllers\\MedicinesController.cs",
-              "ToolTip": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\MedicinesController.cs",
-              "RelativeToolTip": "GraduationProjectAPI\\Controllers\\MedicinesController.cs",
-              "ViewState": "AQIAAIIAAAAAAAAAAAAAAIsAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T13:07:39.521Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 40,
-              "Title": "GraduationProjectAPI.csproj",
-              "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\GraduationProjectAPI.csproj",
-              "RelativeDocumentMoniker": "GraduationProjectAPI\\GraduationProjectAPI.csproj",
-              "ToolTip": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\GraduationProjectAPI.csproj",
-              "RelativeToolTip": "GraduationProjectAPI\\GraduationProjectAPI.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-30T11:08:08.742Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
               "Title": "20240504201155_build-db.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240504201155_build-db.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\Migrations\\20240504201155_build-db.cs",
@@ -899,7 +880,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 41,
               "Title": "DoctorController.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\DoctorController.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\Controllers\\DoctorController.cs",
@@ -911,7 +892,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 42,
               "Title": "PatientRepo.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Repos\\PatientRepo.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Repos\\PatientRepo.cs",
@@ -923,7 +904,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 43,
               "Title": "PharmacistController.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\PharmacistController.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\Controllers\\PharmacistController.cs",
@@ -935,7 +916,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 44,
               "Title": "20240504174519_build-db.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240504174519_build-db.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\Migrations\\20240504174519_build-db.cs",
@@ -947,7 +928,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 49,
               "Title": "Medicine.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\DAL\\Models\\Medicine.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\DAL\\Models\\Medicine.cs",
@@ -959,7 +940,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 48,
               "Title": "OrderHistory.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\DAL\\Models\\OrderHistory.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\DAL\\Models\\OrderHistory.cs",
@@ -971,7 +952,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 45,
               "Title": "Pharmacist.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\DAL\\Models\\Pharmacist.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\DAL\\Models\\Pharmacist.cs",
@@ -983,7 +964,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 46,
               "Title": "Prescription.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\DAL\\Models\\Prescription.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\DAL\\Models\\Prescription.cs",
@@ -995,7 +976,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 47,
               "Title": "Patient.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\DAL\\Models\\Patient.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\DAL\\Models\\Patient.cs",
@@ -1007,7 +988,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 50,
               "Title": "20240504081132_build-db.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240504081132_build-db.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\Migrations\\20240504081132_build-db.cs",
@@ -1018,7 +999,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 51,
               "Title": "20240504072308_build-db.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240504072308_build-db.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\Migrations\\20240504072308_build-db.cs",
@@ -1029,7 +1010,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 52,
               "Title": "PharmacistRepo.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Repos\\PharmacistRepo.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Repos\\PharmacistRepo.cs",
@@ -1041,7 +1022,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 53,
               "Title": "IPharmacist.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Interfaces\\IPharmacist.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Interfaces\\IPharmacist.cs",
@@ -1053,7 +1034,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 54,
               "Title": "IDoctor.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Interfaces\\IDoctor.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Interfaces\\IDoctor.cs",
@@ -1065,7 +1046,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 55,
               "Title": "GraduationProjectAPI.http",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\GraduationProjectAPI.http",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\GraduationProjectAPI.http",
@@ -1077,7 +1058,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 56,
               "Title": "20240504050512_build-db.cs",
               "DocumentMoniker": "F:\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240504050512_build-db.cs",
               "ToolTip": "F:\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240504050512_build-db.cs",
@@ -1086,7 +1067,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 57,
               "Title": "20240504050414_build-db.cs",
               "DocumentMoniker": "F:\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240504050414_build-db.cs",
               "ToolTip": "F:\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240504050414_build-db.cs",
@@ -1095,7 +1076,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 58,
               "Title": "IOrderHistories.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Interfaces\\IOrderHistories.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Interfaces\\IOrderHistories.cs",
@@ -1107,7 +1088,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 59,
               "Title": "Doctor.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\DAL\\Models\\Doctor.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\DAL\\Models\\Doctor.cs",
@@ -1119,7 +1100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 60,
               "Title": "Generator.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Services\\Generator.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Services\\Generator.cs",
@@ -1131,7 +1112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 61,
               "Title": "IPatient.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Interfaces\\IPatient.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Interfaces\\IPatient.cs",
@@ -1143,7 +1124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 62,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -1155,7 +1136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 63,
               "Title": "MyProfile.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\AutoMapper\\MyProfile.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\AutoMapper\\MyProfile.cs",
@@ -1167,7 +1148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 66,
               "Title": "20240501161822_build-db.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501161822_build-db.cs",
               "RelativeDocumentMoniker": "..\\..\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501161822_build-db.cs",
@@ -1178,7 +1159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 64,
               "Title": "20240501162345_build-db.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501162345_build-db.cs",
               "RelativeDocumentMoniker": "..\\..\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501162345_build-db.cs",
@@ -1189,7 +1170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 67,
               "Title": "20240501163539_build-db.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501163539_build-db.cs",
               "RelativeDocumentMoniker": "..\\..\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501163539_build-db.cs",
@@ -1200,7 +1181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 65,
               "Title": "20240501160925_build-db.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501160925_build-db.cs",
               "RelativeDocumentMoniker": "..\\..\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501160925_build-db.cs",
@@ -1211,7 +1192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 68,
               "Title": "20240501161723_build-db.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501161723_build-db.cs",
               "RelativeDocumentMoniker": "..\\..\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501161723_build-db.cs",
@@ -1222,7 +1203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 69,
               "Title": "20240501161439_build-db.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501161439_build-db.cs",
               "RelativeDocumentMoniker": "..\\..\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501161439_build-db.cs",
@@ -1233,7 +1214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 70,
               "Title": "20240501160445_build-db.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501160445_build-db.cs",
               "RelativeDocumentMoniker": "..\\..\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501160445_build-db.cs",
@@ -1244,7 +1225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 71,
               "Title": "20240501142324_build-db.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501142324_build-db.cs",
               "RelativeDocumentMoniker": "..\\..\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501142324_build-db.cs",
@@ -1255,7 +1236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 72,
               "Title": "20240501142204_build-db.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501142204_build-db.cs",
               "RelativeDocumentMoniker": "..\\..\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501142204_build-db.cs",
@@ -1266,7 +1247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 73,
               "Title": "20240501142024_build-db.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501142024_build-db.cs",
               "RelativeDocumentMoniker": "..\\..\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501142024_build-db.cs",
@@ -1277,7 +1258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 74,
               "Title": "20240501141428_build-db.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501141428_build-db.cs",
               "RelativeDocumentMoniker": "..\\..\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501141428_build-db.cs",
@@ -1288,7 +1269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 75,
               "Title": "20240501141306_build-db.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501141306_build-db.cs",
               "RelativeDocumentMoniker": "..\\..\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501141306_build-db.cs",
@@ -1299,7 +1280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 76,
               "Title": "20240501141207_build-db.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501141207_build-db.cs",
               "RelativeDocumentMoniker": "..\\..\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501141207_build-db.cs",
@@ -1310,7 +1291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 77,
               "Title": "20240501141056_build-db.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501141056_build-db.cs",
               "RelativeDocumentMoniker": "..\\..\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501141056_build-db.cs",
@@ -1321,7 +1302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 78,
               "Title": "ResetpasswordVM.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Documents\\GitHub\\ModernizeAPP\\ModernizeApp(API)\\Courses App\\BL\\VM\\ResetpasswordVM.cs",
               "RelativeDocumentMoniker": "..\\..\\Documents\\GitHub\\ModernizeAPP\\ModernizeApp(API)\\Courses App\\BL\\VM\\ResetpasswordVM.cs",
@@ -1333,7 +1314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 79,
               "Title": "response_1714532299482.json",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Downloads\\response_1714532299482.json",
               "RelativeDocumentMoniker": "..\\..\\Downloads\\response_1714532299482.json",
@@ -1345,7 +1326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 80,
               "Title": "20240430232438_build-db.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430232438_build-db.cs",
               "RelativeDocumentMoniker": "..\\..\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430232438_build-db.cs",
@@ -1356,7 +1337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 82,
               "Title": "20240430232051_build-db.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430232051_build-db.cs",
               "RelativeDocumentMoniker": "..\\..\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430232051_build-db.cs",
@@ -1367,7 +1348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 81,
               "Title": "20240430232313_build-db.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430232313_build-db.cs",
               "RelativeDocumentMoniker": "..\\..\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430232313_build-db.cs",
@@ -1378,7 +1359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 83,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Documents\\GitHub\\Sales_Office\\WebApplication12\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "..\\..\\Documents\\GitHub\\Sales_Office\\WebApplication12\\Controllers\\AccountController.cs",
@@ -1390,7 +1371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 84,
               "Title": "response_1714489571497.json",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Downloads\\response_1714489571497.json",
               "RelativeDocumentMoniker": "..\\..\\Downloads\\response_1714489571497.json",
@@ -1402,7 +1383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 85,
               "Title": "20240430145548_build-db.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430145548_build-db.cs",
               "RelativeDocumentMoniker": "..\\..\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430145548_build-db.cs",
@@ -1413,7 +1394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 86,
               "Title": "20240430144113_build-db.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430144113_build-db.cs",
               "RelativeDocumentMoniker": "..\\..\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430144113_build-db.cs",
@@ -1424,7 +1405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 87,
               "Title": "MailSender.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Documents\\GitHub\\ModernizeAPP\\ModernizeApp(API)\\Courses App\\BL\\Services\\MailSender.cs",
               "RelativeDocumentMoniker": "..\\..\\Documents\\GitHub\\ModernizeAPP\\ModernizeApp(API)\\Courses App\\BL\\Services\\MailSender.cs",
@@ -1436,7 +1417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 88,
               "Title": "20240430120736_build-db.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430120736_build-db.cs",
               "RelativeDocumentMoniker": "..\\..\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430120736_build-db.cs",

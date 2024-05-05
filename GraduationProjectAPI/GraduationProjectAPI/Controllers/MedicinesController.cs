@@ -142,5 +142,21 @@ namespace GraduationProjectAPI.Controllers
             return new CustomResponse<IEnumerable<MedicineVM>> { StatusCode = 200, Data = result, Message = "Data Retreived Successfully" };
         }
 
+        [HttpGet("GetExpired")]
+        public CustomResponse<IEnumerable<MedicineVM>> GetExpired()
+        {
+            var data = imedicine.GetExpired();
+            var result = mapper.Map<IEnumerable<MedicineVM>>(data);
+            return new CustomResponse<IEnumerable<MedicineVM>> { StatusCode = 200, Data = result, Message = "Data Retreived Successfully" };
+        }
+
+        [HttpGet("GetOutOfStock")]
+        public CustomResponse<IEnumerable<MedicineVM>> GetOutOfStock()
+        {
+            var data = imedicine.GetDangerData();
+            var result = mapper.Map<IEnumerable<MedicineVM>>(data);
+            return new CustomResponse<IEnumerable<MedicineVM>> { StatusCode = 200, Data = result, Message = "Data Retreived Successfully" };
+        }
+
     }
 }

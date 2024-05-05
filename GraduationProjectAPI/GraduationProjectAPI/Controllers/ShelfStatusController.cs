@@ -1,4 +1,5 @@
 ﻿using GraduationProjectAPI.BL;
+using GraduationProjectAPI.BL.VM;
 using GraduationProjectAPI.DAL.Database;
 using GraduationProjectAPI.DAL.Models;
 using Microsoft.AspNetCore.Http;
@@ -22,7 +23,7 @@ namespace GraduationProjectAPI.Controllers
         public CustomResponse<IEnumerable<ShelfNumberStatus>> GetAll()
         {
 
-            return new CustomResponse<IEnumerable<ShelfNumberStatus>> { StatusCode = 200, Data = db.shelfNumberStatus.ToList(),Message="data retreived successfully" };
+            return new CustomResponse<IEnumerable<ShelfNumberStatus>> { StatusCode = 200, Data = db.shelfNumberStatus.ToList(), Message = "data retreived successfully" };
         }
 
 
@@ -33,5 +34,23 @@ namespace GraduationProjectAPI.Controllers
             db.shelfNumberStatus.Add(shelfNumber);
             db.SaveChanges();
         }
+        [HttpPost]
+
+        [Route("insertForESP/{status}")]
+        public void insertForESP([FromBody]IEnumerable<MedicineVM> medicines,[FromRoute]string status){
+            db.shelfNumberStatus.RemoveRange(db.shelfNumberStatus.ToList());
+            db.SaveChanges();
+            foreach (var item in medicines)
+            {
+                var sh = new ShelfNumberStatus
+                {
+
+                    shelfNumber = (int)item.ShelFNumber,
+                    status = status
+                };
+            }
+
+            }
+
     }
 }

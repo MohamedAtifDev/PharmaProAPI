@@ -18,5 +18,7 @@ namespace GraduationProjectAPI.BL.Interfaces
          IEnumerable<int> GetShelFNumbers(int[]ids);
         IEnumerable<Medicine> GetDangerData();
 
+        IEnumerable<Medicine> GetExpired();
+        IEnumerable<Medicine> GetOutofStock();
     }
 }
