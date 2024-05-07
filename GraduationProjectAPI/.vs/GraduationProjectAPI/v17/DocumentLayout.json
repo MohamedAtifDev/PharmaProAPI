@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\EL-masreya\\Documents\\GitHub\\PharmaProAPI\\GraduationProjectAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\el-masreya\\documents\\github\\pharmaproapi\\graduationprojectapi\\graduationprojectapi\\controllers\\medicinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\controllers\\medicinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\el-masreya\\documents\\github\\pharmaproapi\\graduationprojectapi\\graduationprojectapi\\controllers\\shelfstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\controllers\\shelfstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\el-masreya\\documents\\github\\pharmaproapi\\graduationprojectapi\\graduationprojectapi\\bl\\repos\\shelfstatusrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\repos\\shelfstatusrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\el-masreya\\documents\\github\\pharmaproapi\\graduationprojectapi\\graduationprojectapi\\bl\\interfaces\\ishelfstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\interfaces\\ishelfstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\el-masreya\\documents\\github\\pharmaproapi\\graduationprojectapi\\graduationprojectapi\\controllers\\orderhistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\controllers\\orderhistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,24 +39,12 @@
       "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\customresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\el-masreya\\documents\\github\\pharmaproapi\\graduationprojectapi\\graduationprojectapi\\controllers\\shelfstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\controllers\\shelfstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\el-masreya\\documents\\github\\pharmaproapi\\graduationprojectapi\\graduationprojectapi\\bl\\backgroindjob\\sendnotificationjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\backgroindjob\\sendnotificationjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\el-masreya\\documents\\github\\pharmaproapi\\graduationprojectapi\\graduationprojectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\el-masreya\\documents\\github\\pharmaproapi\\graduationprojectapi\\graduationprojectapi\\bl\\interfaces\\ishelfstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\interfaces\\ishelfstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\el-masreya\\documents\\github\\pharmaproapi\\graduationprojectapi\\graduationprojectapi\\bl\\repos\\shelfstatusrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\repos\\shelfstatusrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\el-masreya\\documents\\github\\pharmaproapi\\graduationprojectapi\\graduationprojectapi\\dal\\database\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\el-masreya\\documents\\github\\pharmaproapi\\graduationprojectapi\\graduationprojectapi\\bl\\repos\\medicinerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\repos\\medicinerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\el-masreya\\documents\\github\\pharmaproapi\\graduationprojectapi\\graduationprojectapi\\controllers\\medicinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\controllers\\medicinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\el-masreya\\documents\\github\\pharmaproapi\\graduationprojectapi\\graduationprojectapi\\bl\\interfaces\\imedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -345,7 +345,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -361,31 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ShelfStatusController.cs",
-              "DocumentMoniker": "C:\\Users\\EL-masreya\\Documents\\GitHub\\PharmaProAPI\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\ShelfStatusController.cs",
-              "RelativeDocumentMoniker": "GraduationProjectAPI\\Controllers\\ShelfStatusController.cs",
-              "ToolTip": "C:\\Users\\EL-masreya\\Documents\\GitHub\\PharmaProAPI\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\ShelfStatusController.cs",
-              "RelativeToolTip": "GraduationProjectAPI\\Controllers\\ShelfStatusController.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAAACMAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T22:29:16.637Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\Users\\EL-masreya\\Documents\\GitHub\\PharmaProAPI\\GraduationProjectAPI\\GraduationProjectAPI\\DAL\\Database\\DataContext.cs",
-              "RelativeDocumentMoniker": "GraduationProjectAPI\\DAL\\Database\\DataContext.cs",
-              "ToolTip": "C:\\Users\\EL-masreya\\Documents\\GitHub\\PharmaProAPI\\GraduationProjectAPI\\GraduationProjectAPI\\DAL\\Database\\DataContext.cs",
-              "RelativeToolTip": "GraduationProjectAPI\\DAL\\Database\\DataContext.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAYwDgAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T11:07:56.041Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "OrderHistoryController.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Documents\\GitHub\\PharmaProAPI\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\OrderHistoryController.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\Controllers\\OrderHistoryController.cs",
@@ -399,19 +375,62 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "OrderHistory.cs",
-              "DocumentMoniker": "C:\\Users\\EL-masreya\\Documents\\GitHub\\PharmaProAPI\\GraduationProjectAPI\\GraduationProjectAPI\\DAL\\Models\\OrderHistory.cs",
-              "RelativeDocumentMoniker": "GraduationProjectAPI\\DAL\\Models\\OrderHistory.cs",
-              "ToolTip": "C:\\Users\\EL-masreya\\Documents\\GitHub\\PharmaProAPI\\GraduationProjectAPI\\GraduationProjectAPI\\DAL\\Models\\OrderHistory.cs",
-              "RelativeToolTip": "GraduationProjectAPI\\DAL\\Models\\OrderHistory.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Title": "IShelfStatus.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\Documents\\GitHub\\PharmaProAPI\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Interfaces\\IShelfStatus.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Interfaces\\IShelfStatus.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\Documents\\GitHub\\PharmaProAPI\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Interfaces\\IShelfStatus.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\BL\\Interfaces\\IShelfStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T11:33:21.778Z",
+              "WhenOpened": "2024-05-07T12:55:37.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShelfStatusRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\Documents\\GitHub\\PharmaProAPI\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Repos\\ShelfStatusRepo.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Repos\\ShelfStatusRepo.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\Documents\\GitHub\\PharmaProAPI\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Repos\\ShelfStatusRepo.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\BL\\Repos\\ShelfStatusRepo.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAADEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:56:45.761Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ShelfStatusController.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\Documents\\GitHub\\PharmaProAPI\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\ShelfStatusController.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\Controllers\\ShelfStatusController.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\Documents\\GitHub\\PharmaProAPI\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\ShelfStatusController.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\Controllers\\ShelfStatusController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAACYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T22:29:16.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MedicinesController.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\Documents\\GitHub\\PharmaProAPI\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\MedicinesController.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\Controllers\\MedicinesController.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\Documents\\GitHub\\PharmaProAPI\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\MedicinesController.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\Controllers\\MedicinesController.cs",
+              "ViewState": "AQIAAM4AAAAAAAAAAAAAAN0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:07:39.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "IOrderHistories.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Documents\\GitHub\\PharmaProAPI\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Interfaces\\IOrderHistories.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Interfaces\\IOrderHistories.cs",
@@ -419,12 +438,35 @@
               "RelativeToolTip": "GraduationProjectAPI\\BL\\Interfaces\\IOrderHistories.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAAAgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T22:21:36.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T22:21:36.808Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
+              "Title": "OrderHistory.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\Documents\\GitHub\\PharmaProAPI\\GraduationProjectAPI\\GraduationProjectAPI\\DAL\\Models\\OrderHistory.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\DAL\\Models\\OrderHistory.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\Documents\\GitHub\\PharmaProAPI\\GraduationProjectAPI\\GraduationProjectAPI\\DAL\\Models\\OrderHistory.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\DAL\\Models\\OrderHistory.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:33:21.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\Documents\\GitHub\\PharmaProAPI\\GraduationProjectAPI\\GraduationProjectAPI\\DAL\\Database\\DataContext.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\DAL\\Database\\DataContext.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\Documents\\GitHub\\PharmaProAPI\\GraduationProjectAPI\\GraduationProjectAPI\\DAL\\Database\\DataContext.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\DAL\\Database\\DataContext.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwDgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:07:56.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "OrderHistoryRepo.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Documents\\GitHub\\PharmaProAPI\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Repos\\OrderHistoryRepo.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Repos\\OrderHistoryRepo.cs",
@@ -432,12 +474,11 @@
               "RelativeToolTip": "GraduationProjectAPI\\BL\\Repos\\OrderHistoryRepo.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T22:22:46.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T22:22:46.158Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "CustomResponse.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Documents\\GitHub\\PharmaProAPI\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\CustomResponse.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\CustomResponse.cs",
@@ -449,23 +490,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IShelfStatus.cs",
-              "DocumentMoniker": "C:\\Users\\EL-masreya\\Documents\\GitHub\\PharmaProAPI\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Interfaces\\IShelfStatus.cs",
-              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Interfaces\\IShelfStatus.cs",
-              "ToolTip": "C:\\Users\\EL-masreya\\Documents\\GitHub\\PharmaProAPI\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Interfaces\\IShelfStatus.cs",
-              "RelativeToolTip": "GraduationProjectAPI\\BL\\Interfaces\\IShelfStatus.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T12:55:37.316Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "SendNotificationJob.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Documents\\GitHub\\PharmaProAPI\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\BackgroindJob\\SendNotificationJob.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\BackgroindJob\\SendNotificationJob.cs",
@@ -477,7 +502,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Documents\\GitHub\\PharmaProAPI\\GraduationProjectAPI\\GraduationProjectAPI\\Program.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\Program.cs",
@@ -489,19 +514,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ShelfStatusRepo.cs",
-              "DocumentMoniker": "C:\\Users\\EL-masreya\\Documents\\GitHub\\PharmaProAPI\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Repos\\ShelfStatusRepo.cs",
-              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Repos\\ShelfStatusRepo.cs",
-              "ToolTip": "C:\\Users\\EL-masreya\\Documents\\GitHub\\PharmaProAPI\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Repos\\ShelfStatusRepo.cs",
-              "RelativeToolTip": "GraduationProjectAPI\\BL\\Repos\\ShelfStatusRepo.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAABgAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T12:56:45.761Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "PrescriptionController.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Documents\\GitHub\\PharmaProAPI\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\PrescriptionController.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\Controllers\\PrescriptionController.cs",
@@ -513,7 +526,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "PatientController.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Documents\\GitHub\\PharmaProAPI\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\PatientController.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\Controllers\\PatientController.cs",
@@ -561,7 +574,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "MedicineRepo.cs",
               "DocumentMoniker": "C:\\Users\\EL-masreya\\Documents\\GitHub\\PharmaProAPI\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Repos\\MedicineRepo.cs",
               "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Repos\\MedicineRepo.cs",
@@ -582,18 +595,6 @@
               "ViewState": "AQIAAAoAAAAAAAAAAAAkwBIAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-01T12:58:33.128Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MedicinesController.cs",
-              "DocumentMoniker": "C:\\Users\\EL-masreya\\Documents\\GitHub\\PharmaProAPI\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\MedicinesController.cs",
-              "RelativeDocumentMoniker": "GraduationProjectAPI\\Controllers\\MedicinesController.cs",
-              "ToolTip": "C:\\Users\\EL-masreya\\Documents\\GitHub\\PharmaProAPI\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\MedicinesController.cs",
-              "RelativeToolTip": "GraduationProjectAPI\\Controllers\\MedicinesController.cs",
-              "ViewState": "AQIAAIIAAAAAAAAAAAAAAIsAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T13:07:39.521Z"
             },
             {
               "$type": "Document",

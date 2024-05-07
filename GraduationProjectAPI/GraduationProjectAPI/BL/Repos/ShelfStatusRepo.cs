@@ -1,4 +1,5 @@
 ﻿using GraduationProjectAPI.BL.Interfaces;
+using GraduationProjectAPI.BL.VM;
 using GraduationProjectAPI.DAL.Database;
 using GraduationProjectAPI.DAL.Models;
 
@@ -31,6 +32,21 @@ db.shelfNumberStatus.Add(shelfNumberStatus);
         public void RemoveRange(IEnumerable<ShelfNumberStatus> shelfNumbers)
         {
             this.db.RemoveRange(shelfNumbers);
+            db.SaveChanges();
+        }
+
+        public void InsertForESP(IEnumerable<MedicineVM> medicines, string status)
+        {
+            db.shelfNumberStatus.RemoveRange(db.shelfNumberStatus);
+            foreach (var item in medicines)
+            {
+                var sh = new ShelfNumberStatus
+                {
+                    shelfNumber = (int)item.ShelFNumber,
+                    status = status
+                };
+                db.shelfNumberStatus.Add(sh);
+            }
             db.SaveChanges();
         }
     }

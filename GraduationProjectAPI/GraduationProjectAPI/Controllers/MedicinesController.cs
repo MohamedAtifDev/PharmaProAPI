@@ -15,11 +15,13 @@ namespace GraduationProjectAPI.Controllers
     {
         private readonly IMapper mapper;
         private readonly IMedicine imedicine;
+        private readonly IShelfStatus shelfstatus;
 
-        public MedicinesController(IMapper mapper,IMedicine Imedicine)
+        public MedicinesController(IMapper mapper,IMedicine Imedicine,IShelfStatus shelfstatus)
         {
             this.mapper = mapper;
             imedicine = Imedicine;
+            this.shelfstatus = shelfstatus;
         }
         [HttpGet]
         [Route("GetAll")]
@@ -183,6 +185,42 @@ namespace GraduationProjectAPI.Controllers
                 Data = result,
                 Message = "Soon out of stock medicines retrieved successfully."
             });
+        }
+
+        [HttpPost("SendOutStockToEsp")]
+        public IActionResult SendOutStockToEsp()
+        {
+            var data = imedicine.GetOutofStock();
+            var result = mapper.Map<IEnumerable<MedicineVM>>(data);
+            shelfstatus.InsertForESP(result, "Red");
+            return Ok(new { Message = "Data sent to ESP successfully" });
+        }
+
+        [HttpPost("SendExpiredToEsp")]
+        public IActionResult SendExpiredToEsp()
+        {
+            var data = imedicine.GetExpired();
+            var result = mapper.Map<IEnumerable<MedicineVM>>(data);
+            shelfstatus.InsertForESP(result, "Red");
+            return Ok(new { Message = "Data sent to ESP successfully" });
+        }
+
+        [HttpPost("SendSoonOutOfStockToEsp")]
+        public IActionResult SendSoonOutOfStock()
+        {
+            var data = imedicine.GetOutofStockSoon();
+            var result = mapper.Map<IEnumerable<MedicineVM>>(data);
+            shelfstatus.InsertForESP(result, "Red");
+            return Ok(new { Message = "Data sent to ESP successfully" });
+        }
+
+        [HttpPost("SendSoonToExpireToEsp")]
+        public IActionResult SendSoonToExpireToEsp()
+        {
+            var data = imedicine.GetexpiredSoon();
+            var result = mapper.Map<IEnumerable<MedicineVM>>(data);
+            shelfstatus.InsertForESP(result, "Red");
+            return Ok(new { Message = "Data sent to ESP successfully" });
         }
 
     }
