@@ -82,9 +82,9 @@ namespace GraduationProjectAPI.BL.Repos
             {
                 var date = DateTime.Now;
                 var medicineExpDate = item.ExpirationDate;
-                TimeSpan difference = medicineExpDate-date;
+                TimeSpan difference = medicineExpDate.Date-date.Date;
                 differenceInDays = (int)difference.TotalDays;
-                if ((differenceInDays <= 7 && differenceInDays >= 0)|| item.NumberInStock <10)
+                if ((differenceInDays <= 7 && differenceInDays > 0)|| (item.NumberInStock <10 && item.NumberInStock>0))
                 {
                    medicines.Add(item);
                    
@@ -106,7 +106,7 @@ namespace GraduationProjectAPI.BL.Repos
             {
                ;
               
-                TimeSpan difference = item.ExpirationDate - date;
+                TimeSpan difference = item.ExpirationDate.Date - date.Date;
                 int differenceInDays = (int)difference.TotalDays ;
                 if (differenceInDays<=0)
                 {
@@ -126,8 +126,8 @@ namespace GraduationProjectAPI.BL.Repos
         }
         public IEnumerable<Medicine> GetexpiredSoon()
         {
-            var medicines = db.Medicines
-          .Where(m => (m.ExpirationDate - DateTime.Now).TotalDays <= 7 && (m.ExpirationDate - DateTime.Now).TotalDays >= 0)
+            var medicines = db.Medicines.AsEnumerable()
+          .Where(m => (m.ExpirationDate.Date - DateTime.Now.Date).TotalDays <= 7 && (m.ExpirationDate.Date - DateTime.Now.Date).TotalDays > 0)
           .ToList();
 
             return medicines;

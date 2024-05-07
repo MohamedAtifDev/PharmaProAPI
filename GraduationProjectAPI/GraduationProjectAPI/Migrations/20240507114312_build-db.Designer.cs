@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace GraduationProjectAPI.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20240505132251_build-db")]
+    [Migration("20240507114312_build-db")]
     partial class builddb
     {
         /// <inheritdoc />

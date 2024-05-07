@@ -14,18 +14,20 @@ namespace GraduationProjectAPI.Controllers
     [ApiController]
     public class OrderHistoryController : ControllerBase
     {
+        private readonly IShelfStatus shelfStatus;
         private readonly IOrderHistories orderHistories;
         private readonly IMapper mapper;
         private readonly IMedicine medicine;
         private readonly IPrescription prescription;
-        private readonly DataContext db;
-        public OrderHistoryController(DataContext db,IOrderHistories orderHistories,IMapper mapper,IMedicine medicine,IPrescription prescription)
+     
+        public OrderHistoryController(IShelfStatus shelfStatus,IOrderHistories orderHistories,IMapper mapper,IMedicine medicine,IPrescription prescription)
         {
+            this.shelfStatus = shelfStatus;
             this.orderHistories = orderHistories;
             this.mapper = mapper;
             this.medicine = medicine;
             this.prescription = prescription;
-            this.db = db;
+      
         }
 
         [HttpGet]
@@ -137,7 +139,7 @@ namespace GraduationProjectAPI.Controllers
    
     
     [HttpPost]
-    [Route("Submit")]
+    [Route("Submit/{Prescriptionid}/{pharmacistid}")]
     public CustomResponse<OrderHistoryVM> Submit(int pharmacistid,int Prescriptionid)
     {
             var pres = prescription.GetByIDWithSPecificRelatedData(Prescriptionid);
@@ -153,18 +155,18 @@ namespace GraduationProjectAPI.Controllers
             foreach (var item in pres.medicineOfPrescriptions)
             {
                 var differenceInDays = 0;
-                var date = DateTime.Now;
-                var medicineExpDate = item.Medicine.ExpirationDate;
+                var date = DateTime.Now.Date;
+                var medicineExpDate = item.Medicine.ExpirationDate.Date;
                 TimeSpan difference = medicineExpDate - date;
                 differenceInDays = (int)difference.TotalDays ;
                 if (item.Medicine.NumberInStock == 0)
                 {
-                    return new CustomResponse<OrderHistoryVM> { StatusCode = 400, Data = null, Message = $"{item.Medicine.Name} is Expired " };
+                    return new CustomResponse<OrderHistoryVM> { StatusCode = 400, Data = null, Message = $"{item.Medicine.Name} is out of Stock  " };
 
                 }
                 if(differenceInDays <= 0)
                 {
-                    return new CustomResponse<OrderHistoryVM> { StatusCode = 400, Data = null, Message = $"{item.Medicine.Name} is out of Stock " };
+                    return new CustomResponse<OrderHistoryVM> { StatusCode = 400, Data = null, Message = $"{item.Medicine.Name} is expired " };
 
                 }
 
@@ -172,13 +174,9 @@ namespace GraduationProjectAPI.Controllers
 
             var data = mapper.Map<OrderHistory>(record);
                 orderHistories.Add(data);
-            foreach (var item in pres.medicineOfPrescriptions)
-            {
-                medicine.decrementQuanity(item.Medicine.Id, 1);
 
-            }
-            db.shelfNumberStatus.RemoveRange(db.shelfNumberStatus.Select(a => a));
-            db.SaveChanges();
+            shelfStatus.RemoveRange(shelfStatus.GetAll());
+            var shelfs = new List<ShelfNumberStatus>();
             foreach (var item in pres.medicineOfPrescriptions)
             {
                 var shelfstatus = new ShelfNumberStatus
@@ -186,10 +184,17 @@ namespace GraduationProjectAPI.Controllers
                     shelfNumber = item.Medicine.ShelFNumber,
                     status = "Green"
                 };
-                db.shelfNumberStatus.Add(shelfstatus);
-                db.SaveChanges();
+                shelfs.Add(shelfstatus);
+              
+              
             }
+            shelfStatus.AddRange(shelfs);
+    
+            foreach (var item in pres.medicineOfPrescriptions)
+            {
+                medicine.decrementQuanity(item.Medicine.Id, 1);
 
+            }
             return new CustomResponse<OrderHistoryVM> { StatusCode = 200, Data = null, Message = "Prescription  submitted successfully" };
 
 

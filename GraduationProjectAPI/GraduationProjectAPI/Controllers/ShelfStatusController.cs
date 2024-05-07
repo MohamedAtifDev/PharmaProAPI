@@ -1,4 +1,5 @@
 ﻿using GraduationProjectAPI.BL;
+using GraduationProjectAPI.BL.Interfaces;
 using GraduationProjectAPI.BL.VM;
 using GraduationProjectAPI.DAL.Database;
 using GraduationProjectAPI.DAL.Models;
@@ -11,11 +12,12 @@ namespace GraduationProjectAPI.Controllers
     [ApiController]
     public class ShelfStatusController : ControllerBase
     {
-        private readonly DataContext db;
+    
+        private readonly IShelfStatus shelfStatus;
 
-        public ShelfStatusController(DataContext db)
+        public ShelfStatusController(IShelfStatus shelfStatus)
         {
-            this.db = db;
+            this.shelfStatus = shelfStatus;
         }
 
         [HttpGet]
@@ -23,7 +25,7 @@ namespace GraduationProjectAPI.Controllers
         public CustomResponse<IEnumerable<ShelfNumberStatus>> GetAll()
         {
 
-            return new CustomResponse<IEnumerable<ShelfNumberStatus>> { StatusCode = 200, Data = db.shelfNumberStatus.ToList(), Message = "data retreived successfully" };
+            return new CustomResponse<IEnumerable<ShelfNumberStatus>> { StatusCode = 200, Data = shelfStatus.GetAll(), Message = "data retreived successfully" };
         }
 
 
@@ -31,15 +33,16 @@ namespace GraduationProjectAPI.Controllers
         [Route("Create")]
         public void insert(ShelfNumberStatus shelfNumber)
         {
-            db.shelfNumberStatus.Add(shelfNumber);
-            db.SaveChanges();
+            shelfStatus.Create(shelfNumber);
+   
         }
         [HttpPost]
 
         [Route("insertForESP/{status}")]
         public void insertForESP([FromBody]IEnumerable<MedicineVM> medicines,[FromRoute]string status){
-            db.shelfNumberStatus.RemoveRange(db.shelfNumberStatus.ToList());
-            db.SaveChanges();
+            shelfStatus.RemoveRange(shelfStatus.GetAll());
+        
+            var data =new List<ShelfNumberStatus>();
             foreach (var item in medicines)
             {
                 var sh = new ShelfNumberStatus
@@ -48,7 +51,9 @@ namespace GraduationProjectAPI.Controllers
                     shelfNumber = (int)item.ShelFNumber,
                     status = status
                 };
+                data.Add(sh);
             }
+            shelfStatus.AddRange(data);
 
             }
 

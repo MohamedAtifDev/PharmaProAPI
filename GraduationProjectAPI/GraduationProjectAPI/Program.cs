@@ -71,7 +71,7 @@ builder.Services.AddScoped<IPrescription, PrescriptionRepo>();
 builder.Services.AddScoped<IDoctor, DoctorRepo>();
 builder.Services.AddScoped<IPharmacist, PharmacistRepo>();
 builder.Services.AddScoped<IOrderHistories, OrderHistoryRepo>();
-
+builder.Services.AddScoped<IShelfStatus, ShelfStatusRepo>();
 builder.Services.AddScoped<IMedicineOfPrescription, MedicineOfPrescriptionRepo>();
 builder.Services.AddCors(opt =>
 {

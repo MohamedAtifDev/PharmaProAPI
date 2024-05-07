@@ -42,9 +42,9 @@ namespace GraduationProjectAPI.BL.BackgroindJob
             {
                 var date = DateTime.Now;
                 var medicineExpDate = item.ExpirationDate;
-                TimeSpan difference = medicineExpDate - date;
-                differenceInDays = (int)difference.TotalDays +1;
-                if ((differenceInDays <= 7 && differenceInDays >= 0))
+                TimeSpan difference = medicineExpDate.Date - date.Date;
+                differenceInDays = (int)difference.TotalDays;
+                if ((differenceInDays <= 7 && differenceInDays > 0))
                 {
 
                     count++;
