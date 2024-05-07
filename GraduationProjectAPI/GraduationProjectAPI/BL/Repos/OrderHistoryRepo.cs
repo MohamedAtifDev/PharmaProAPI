@@ -23,9 +23,9 @@ namespace GraduationProjectAPI.BL.Repos
             this.db.SaveChanges();
         }
 
-        public void Delete(int PrescriptionId, int PharmacistId)
+        public void Delete(int id)
         {
-            var data = db.orderHistories.Where(a => a.PrescriptionId == PrescriptionId && a.PharmacistId == PharmacistId).FirstOrDefault();
+            var data = db.orderHistories.Where(a=>a.Id==id).FirstOrDefault();
             this.db.orderHistories.Remove(data);
             db.SaveChanges();
         }
@@ -35,9 +35,9 @@ namespace GraduationProjectAPI.BL.Repos
             return db.orderHistories.ToList();
         }
 
-        public OrderHistory GetById(int PrescriptionId, int PharmacistId)
+        public OrderHistory GetById(int id)
         {
-            return this.db.orderHistories.Where(a=>a.PharmacistId==PharmacistId && a.PrescriptionId==PrescriptionId).FirstOrDefault();
+            return this.db.orderHistories.Where(a=>a.Id==id).FirstOrDefault();
         }
 
         public void Update(OrderHistory orderHistory)

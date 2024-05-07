@@ -40,10 +40,10 @@ namespace GraduationProjectAPI.Controllers
         }
 
         [HttpGet]
-        [Route("GetById/{PrescriptionId}/{PharmacistId}")]
-        public CustomResponse<OrderHistoryVM> GetById(int PrescriptionId, int PharmacistId)
+        [Route("GetById/{id}")]
+        public CustomResponse<OrderHistoryVM> GetById(int id)
         {
-            var data = orderHistories.GetById(PrescriptionId,PharmacistId);
+            var data = orderHistories.GetById(id);
             if (data is not null)
             {
                 var result = mapper.Map<OrderHistoryVM>(data);
@@ -119,14 +119,14 @@ namespace GraduationProjectAPI.Controllers
         }
 
         [HttpDelete]
-        [Route("Delete/{PrescriptionId}/{PharmacistId}")]
-        public CustomResponse<OrderHistoryVM> Delete(int PrescriptionId, int PharmacistId)
+        [Route("Delete/{id}")]
+        public CustomResponse<OrderHistoryVM> Delete(int id)
         {
-            var data = orderHistories.GetById(PrescriptionId, PharmacistId);
+            var data = orderHistories.GetById(id);
             var result = mapper.Map<OrderHistoryVM>(data);
             if (data is not null)
             {
-                orderHistories.Delete(PrescriptionId, PharmacistId);
+                orderHistories.Delete(id);
                 return new CustomResponse<OrderHistoryVM> { StatusCode = 200, Data = result, Message = "OrderHistory deleted successfully" };
 
             }
